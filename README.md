@@ -1,5 +1,3 @@
-class: center, middle
-
 # Image Editor
 
 1. Load this repo as zip: https://github.com/ilkkamtk/mediaApp2 and extract
